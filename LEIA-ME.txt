@@ -1,0 +1,18 @@
+Fatal Frame: Maiden of Black Water — PT-BR (Wii U)
+
+Este projeto nao inclui arquivos do jogo.
+
+Requisitos:
+- Wii U com Aroma
+- SDCafiine
+- FTPiiU Everywhere
+- Copia legal da versao EUR (Title ID 00050000101D3F00)
+
+O archive traduzido vai para:
+sd:/wiiu/sdcafiine/00050000101d3f00/PTBR/content/archive00.lnk
+
+Importante: o SDCafiine redireciona somente content/ e aoc/.
+O arquivo code/lens5_cafe.rpx precisa ser enviado separadamente pelo
+FTPiiU Everywhere, com backup e validacao de hash.
+
+Consulte docs/INSTALACAO.md antes de alterar o Wii U.

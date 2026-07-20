@@ -1,0 +1,10 @@
+.DS_Store
+*.lnk
+*.rpx
+*.drpx
+*.MSBT
+*.BFFNT
+*.json
+.env
+node_modules/
+work/
