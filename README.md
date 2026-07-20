@@ -31,6 +31,12 @@ O SDCafiine redireciona `content/` e `aoc/`; ele **não** substitui o RPX que fi
 
 Leia o procedimento completo em [docs/INSTALACAO.md](docs/INSTALACAO.md) e a explicação do formato em [docs/TECNICO.md](docs/TECNICO.md).
 
+## Download do patch
+
+Na aba **Releases**, baixe `FatalFrame-MOBW_PTBR_WiiU_Patch.zip`. O ZIP contém somente dados de tradução, metadados e scripts. Ele pede os dois arquivos originais da sua própria cópia EUR e gera localmente o `archive00.lnk` e o `lens5_cafe.rpx` compatíveis.
+
+O passo a passo fica em [docs/PATCH_BAIXAVEL.md](docs/PATCH_BAIXAVEL.md).
+
 ## Automação e validação
 
 Os scripts em `tools/` foram feitos para reduzir etapas manuais e impedir erros comuns:
