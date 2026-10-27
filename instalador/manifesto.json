@@ -1,0 +1,630 @@
+{
+  "game": "Fatal Frame: Maiden of Black Water / Project Zero",
+  "region": "EUR",
+  "title_id": "00050000101D3F00",
+  "release": "v1.1",
+  "mode": "fatal-frame",
+  "space_bytes": 4294967296,
+  "inputs": [
+    {
+      "label": "content/archive00.lnk ORIGINAL EUR",
+      "relative_path": "content/archive00.lnk"
+    },
+    {
+      "label": "code/lens5_cafe.rpx ORIGINAL EUR",
+      "relative_path": "code/lens5_cafe.rpx",
+      "delta": "patches/rpx.bps",
+      "destination": "INSTALAR_NO_WII_U/code/lens5_cafe.rpx"
+    }
+  ],
+  "base_update": "Somente a revisão identificada pelos hashes deste pacote; outras revisões são recusadas.",
+  "runtime": "Aroma com SDCafiine instalado separadamente e ativado.",
+  "archive": {
+    "entries": 4361,
+    "source_size": 3699120128,
+    "table_sha256": "ded12e80256f71c0d28b50d5539c51b1aacb564330a4ee05cbef28a75b2849e4",
+    "destination": "wiiu/sdcafiine/00050000101D3F00/PTBR/content/archive00.lnk",
+    "texts": [
+      {
+        "index": 4072,
+        "name": "FILE.MSBT",
+        "delta": "patches/msbt-4072.bps"
+      },
+      {
+        "index": 4073,
+        "name": "FIND_CMN.MSBT",
+        "delta": "patches/msbt-4073.bps"
+      },
+      {
+        "index": 4074,
+        "name": "GHOSTLIST.MSBT",
+        "delta": "patches/msbt-4074.bps"
+      },
+      {
+        "index": 4075,
+        "name": "LYRICS.MSBT",
+        "delta": "patches/msbt-4075.bps"
+      },
+      {
+        "index": 4076,
+        "name": "MEMO.MSBT",
+        "delta": "patches/msbt-4076.bps"
+      },
+      {
+        "index": 4077,
+        "name": "MOVIE.MSBT",
+        "delta": "patches/msbt-4077.bps"
+      },
+      {
+        "index": 4078,
+        "name": "NAR_A01A.MSBT",
+        "delta": "patches/msbt-4078.bps"
+      },
+      {
+        "index": 4079,
+        "name": "NAR_A02A.MSBT",
+        "delta": "patches/msbt-4079.bps"
+      },
+      {
+        "index": 4080,
+        "name": "NAR_A03A.MSBT",
+        "delta": "patches/msbt-4080.bps"
+      },
+      {
+        "index": 4081,
+        "name": "NAR_A04A.MSBT",
+        "delta": "patches/msbt-4081.bps"
+      },
+      {
+        "index": 4082,
+        "name": "NAR_CMN.MSBT",
+        "delta": "patches/msbt-4082.bps"
+      },
+      {
+        "index": 4083,
+        "name": "NAR_M01A.MSBT",
+        "delta": "patches/msbt-4083.bps"
+      },
+      {
+        "index": 4084,
+        "name": "NAR_M02A.MSBT",
+        "delta": "patches/msbt-4084.bps"
+      },
+      {
+        "index": 4085,
+        "name": "NAR_M03A.MSBT",
+        "delta": "patches/msbt-4085.bps"
+      },
+      {
+        "index": 4086,
+        "name": "NAR_M04A.MSBT",
+        "delta": "patches/msbt-4086.bps"
+      },
+      {
+        "index": 4087,
+        "name": "NAR_M05A.MSBT",
+        "delta": "patches/msbt-4087.bps"
+      },
+      {
+        "index": 4088,
+        "name": "NAR_M06A.MSBT",
+        "delta": "patches/msbt-4088.bps"
+      },
+      {
+        "index": 4089,
+        "name": "NAR_M07A.MSBT",
+        "delta": "patches/msbt-4089.bps"
+      },
+      {
+        "index": 4090,
+        "name": "NAR_M08A.MSBT",
+        "delta": "patches/msbt-4090.bps"
+      },
+      {
+        "index": 4091,
+        "name": "NAR_M09A.MSBT",
+        "delta": "patches/msbt-4091.bps"
+      },
+      {
+        "index": 4092,
+        "name": "NAR_M10A.MSBT",
+        "delta": "patches/msbt-4092.bps"
+      },
+      {
+        "index": 4093,
+        "name": "NAR_M11A.MSBT",
+        "delta": "patches/msbt-4093.bps"
+      },
+      {
+        "index": 4094,
+        "name": "NAR_M12A.MSBT",
+        "delta": "patches/msbt-4094.bps"
+      },
+      {
+        "index": 4095,
+        "name": "NAR_M13A.MSBT",
+        "delta": "patches/msbt-4095.bps"
+      },
+      {
+        "index": 4096,
+        "name": "NAR_M14A.MSBT",
+        "delta": "patches/msbt-4096.bps"
+      },
+      {
+        "index": 4097,
+        "name": "NAR_M15A.MSBT",
+        "delta": "patches/msbt-4097.bps"
+      },
+      {
+        "index": 4098,
+        "name": "NAR_M16A.MSBT",
+        "delta": "patches/msbt-4098.bps"
+      },
+      {
+        "index": 4099,
+        "name": "NAR_M17A.MSBT",
+        "delta": "patches/msbt-4099.bps"
+      },
+      {
+        "index": 4100,
+        "name": "NAR_M17B.MSBT",
+        "delta": "patches/msbt-4100.bps"
+      },
+      {
+        "index": 4101,
+        "name": "NAR_M17C.MSBT",
+        "delta": "patches/msbt-4101.bps"
+      },
+      {
+        "index": 4102,
+        "name": "NAR_M17D.MSBT",
+        "delta": "patches/msbt-4102.bps"
+      },
+      {
+        "index": 4103,
+        "name": "NAR_M17E.MSBT",
+        "delta": "patches/msbt-4103.bps"
+      },
+      {
+        "index": 4104,
+        "name": "NAR_M17F.MSBT",
+        "delta": "patches/msbt-4104.bps"
+      },
+      {
+        "index": 4105,
+        "name": "NAR_M17G.MSBT",
+        "delta": "patches/msbt-4105.bps"
+      },
+      {
+        "index": 4106,
+        "name": "OBJ_A01A.MSBT",
+        "delta": "patches/msbt-4106.bps"
+      },
+      {
+        "index": 4107,
+        "name": "OBJ_A02A.MSBT",
+        "delta": "patches/msbt-4107.bps"
+      },
+      {
+        "index": 4108,
+        "name": "OBJ_A03A.MSBT",
+        "delta": "patches/msbt-4108.bps"
+      },
+      {
+        "index": 4109,
+        "name": "OBJ_A04A.MSBT",
+        "delta": "patches/msbt-4109.bps"
+      },
+      {
+        "index": 4110,
+        "name": "OBJ_CMN.MSBT",
+        "delta": "patches/msbt-4110.bps"
+      },
+      {
+        "index": 4111,
+        "name": "OBJ_M01A.MSBT",
+        "delta": "patches/msbt-4111.bps"
+      },
+      {
+        "index": 4112,
+        "name": "OBJ_M02A.MSBT",
+        "delta": "patches/msbt-4112.bps"
+      },
+      {
+        "index": 4113,
+        "name": "OBJ_M03A.MSBT",
+        "delta": "patches/msbt-4113.bps"
+      },
+      {
+        "index": 4114,
+        "name": "OBJ_M04A.MSBT",
+        "delta": "patches/msbt-4114.bps"
+      },
+      {
+        "index": 4115,
+        "name": "OBJ_M05A.MSBT",
+        "delta": "patches/msbt-4115.bps"
+      },
+      {
+        "index": 4116,
+        "name": "OBJ_M06A.MSBT",
+        "delta": "patches/msbt-4116.bps"
+      },
+      {
+        "index": 4117,
+        "name": "OBJ_M07A.MSBT",
+        "delta": "patches/msbt-4117.bps"
+      },
+      {
+        "index": 4118,
+        "name": "OBJ_M08A.MSBT",
+        "delta": "patches/msbt-4118.bps"
+      },
+      {
+        "index": 4119,
+        "name": "OBJ_M09A.MSBT",
+        "delta": "patches/msbt-4119.bps"
+      },
+      {
+        "index": 4120,
+        "name": "OBJ_M10A.MSBT",
+        "delta": "patches/msbt-4120.bps"
+      },
+      {
+        "index": 4121,
+        "name": "OBJ_M11A.MSBT",
+        "delta": "patches/msbt-4121.bps"
+      },
+      {
+        "index": 4122,
+        "name": "OBJ_M12A.MSBT",
+        "delta": "patches/msbt-4122.bps"
+      },
+      {
+        "index": 4123,
+        "name": "OBJ_M13A.MSBT",
+        "delta": "patches/msbt-4123.bps"
+      },
+      {
+        "index": 4124,
+        "name": "OBJ_M14A.MSBT",
+        "delta": "patches/msbt-4124.bps"
+      },
+      {
+        "index": 4125,
+        "name": "OBJ_M15A.MSBT",
+        "delta": "patches/msbt-4125.bps"
+      },
+      {
+        "index": 4126,
+        "name": "OBJ_M16A.MSBT",
+        "delta": "patches/msbt-4126.bps"
+      },
+      {
+        "index": 4127,
+        "name": "OBJ_M17A.MSBT",
+        "delta": "patches/msbt-4127.bps"
+      },
+      {
+        "index": 4128,
+        "name": "OBJ_M17B.MSBT",
+        "delta": "patches/msbt-4128.bps"
+      },
+      {
+        "index": 4129,
+        "name": "OBJ_M17C.MSBT",
+        "delta": "patches/msbt-4129.bps"
+      },
+      {
+        "index": 4130,
+        "name": "OBJ_M17D.MSBT",
+        "delta": "patches/msbt-4130.bps"
+      },
+      {
+        "index": 4131,
+        "name": "OBJ_M17E.MSBT",
+        "delta": "patches/msbt-4131.bps"
+      },
+      {
+        "index": 4132,
+        "name": "OBJ_M17F.MSBT",
+        "delta": "patches/msbt-4132.bps"
+      },
+      {
+        "index": 4133,
+        "name": "OBJ_M17G.MSBT",
+        "delta": "patches/msbt-4133.bps"
+      },
+      {
+        "index": 4134,
+        "name": "REISEKIVOICE.MSBT",
+        "delta": "patches/msbt-4134.bps"
+      },
+      {
+        "index": 4135,
+        "name": "STAFF_CREDIT.MSBT",
+        "delta": "patches/msbt-4135.bps"
+      },
+      {
+        "index": 4136,
+        "name": "SYNOPSIS.MSBT",
+        "delta": "patches/msbt-4136.bps"
+      },
+      {
+        "index": 4137,
+        "name": "SYSTEM.MSBT",
+        "delta": "patches/msbt-4137.bps"
+      },
+      {
+        "index": 4138,
+        "name": "SYSTEM_NAME_STG.MSBT",
+        "delta": "patches/msbt-4138.bps"
+      },
+      {
+        "index": 4139,
+        "name": "TRP_A01A.MSBT",
+        "delta": "patches/msbt-4139.bps"
+      },
+      {
+        "index": 4140,
+        "name": "TRP_A02A.MSBT",
+        "delta": "patches/msbt-4140.bps"
+      },
+      {
+        "index": 4141,
+        "name": "TRP_A03A.MSBT",
+        "delta": "patches/msbt-4141.bps"
+      },
+      {
+        "index": 4142,
+        "name": "TRP_A04A.MSBT",
+        "delta": "patches/msbt-4142.bps"
+      },
+      {
+        "index": 4143,
+        "name": "TRP_CMN.MSBT",
+        "delta": "patches/msbt-4143.bps"
+      },
+      {
+        "index": 4144,
+        "name": "TRP_M01A.MSBT",
+        "delta": "patches/msbt-4144.bps"
+      },
+      {
+        "index": 4145,
+        "name": "TRP_M02A.MSBT",
+        "delta": "patches/msbt-4145.bps"
+      },
+      {
+        "index": 4146,
+        "name": "TRP_M03A.MSBT",
+        "delta": "patches/msbt-4146.bps"
+      },
+      {
+        "index": 4147,
+        "name": "TRP_M04A.MSBT",
+        "delta": "patches/msbt-4147.bps"
+      },
+      {
+        "index": 4148,
+        "name": "TRP_M05A.MSBT",
+        "delta": "patches/msbt-4148.bps"
+      },
+      {
+        "index": 4149,
+        "name": "TRP_M06A.MSBT",
+        "delta": "patches/msbt-4149.bps"
+      },
+      {
+        "index": 4150,
+        "name": "TRP_M07A.MSBT",
+        "delta": "patches/msbt-4150.bps"
+      },
+      {
+        "index": 4151,
+        "name": "TRP_M08A.MSBT",
+        "delta": "patches/msbt-4151.bps"
+      },
+      {
+        "index": 4152,
+        "name": "TRP_M09A.MSBT",
+        "delta": "patches/msbt-4152.bps"
+      },
+      {
+        "index": 4153,
+        "name": "TRP_M10A.MSBT",
+        "delta": "patches/msbt-4153.bps"
+      },
+      {
+        "index": 4154,
+        "name": "TRP_M11A.MSBT",
+        "delta": "patches/msbt-4154.bps"
+      },
+      {
+        "index": 4155,
+        "name": "TRP_M12A.MSBT",
+        "delta": "patches/msbt-4155.bps"
+      },
+      {
+        "index": 4156,
+        "name": "TRP_M13A.MSBT",
+        "delta": "patches/msbt-4156.bps"
+      },
+      {
+        "index": 4157,
+        "name": "TRP_M14A.MSBT",
+        "delta": "patches/msbt-4157.bps"
+      },
+      {
+        "index": 4158,
+        "name": "TRP_M15A.MSBT",
+        "delta": "patches/msbt-4158.bps"
+      },
+      {
+        "index": 4159,
+        "name": "TRP_M16A.MSBT",
+        "delta": "patches/msbt-4159.bps"
+      },
+      {
+        "index": 4160,
+        "name": "TRP_M17A.MSBT",
+        "delta": "patches/msbt-4160.bps"
+      },
+      {
+        "index": 4161,
+        "name": "TRP_M17B.MSBT",
+        "delta": "patches/msbt-4161.bps"
+      },
+      {
+        "index": 4162,
+        "name": "TRP_M17C.MSBT",
+        "delta": "patches/msbt-4162.bps"
+      },
+      {
+        "index": 4163,
+        "name": "TRP_M17D.MSBT",
+        "delta": "patches/msbt-4163.bps"
+      },
+      {
+        "index": 4164,
+        "name": "TRP_M17E.MSBT",
+        "delta": "patches/msbt-4164.bps"
+      },
+      {
+        "index": 4165,
+        "name": "TRP_M17F.MSBT",
+        "delta": "patches/msbt-4165.bps"
+      },
+      {
+        "index": 4166,
+        "name": "TRP_M17G.MSBT",
+        "delta": "patches/msbt-4166.bps"
+      },
+      {
+        "index": 4167,
+        "name": "TRP_MOV_A01.MSBT",
+        "delta": "patches/msbt-4167.bps"
+      },
+      {
+        "index": 4168,
+        "name": "TRP_MOV_A02.MSBT",
+        "delta": "patches/msbt-4168.bps"
+      },
+      {
+        "index": 4169,
+        "name": "TRP_MOV_A03.MSBT",
+        "delta": "patches/msbt-4169.bps"
+      },
+      {
+        "index": 4170,
+        "name": "TRP_MOV_A04.MSBT",
+        "delta": "patches/msbt-4170.bps"
+      },
+      {
+        "index": 4171,
+        "name": "TRP_MOV_CMN.MSBT",
+        "delta": "patches/msbt-4171.bps"
+      },
+      {
+        "index": 4172,
+        "name": "TRP_MOV_M01.MSBT",
+        "delta": "patches/msbt-4172.bps"
+      },
+      {
+        "index": 4173,
+        "name": "TRP_MOV_M02.MSBT",
+        "delta": "patches/msbt-4173.bps"
+      },
+      {
+        "index": 4174,
+        "name": "TRP_MOV_M03.MSBT",
+        "delta": "patches/msbt-4174.bps"
+      },
+      {
+        "index": 4175,
+        "name": "TRP_MOV_M04.MSBT",
+        "delta": "patches/msbt-4175.bps"
+      },
+      {
+        "index": 4176,
+        "name": "TRP_MOV_M05.MSBT",
+        "delta": "patches/msbt-4176.bps"
+      },
+      {
+        "index": 4177,
+        "name": "TRP_MOV_M06.MSBT",
+        "delta": "patches/msbt-4177.bps"
+      },
+      {
+        "index": 4178,
+        "name": "TRP_MOV_M07.MSBT",
+        "delta": "patches/msbt-4178.bps"
+      },
+      {
+        "index": 4179,
+        "name": "TRP_MOV_M08.MSBT",
+        "delta": "patches/msbt-4179.bps"
+      },
+      {
+        "index": 4180,
+        "name": "TRP_MOV_M09.MSBT",
+        "delta": "patches/msbt-4180.bps"
+      },
+      {
+        "index": 4181,
+        "name": "TRP_MOV_M10.MSBT",
+        "delta": "patches/msbt-4181.bps"
+      },
+      {
+        "index": 4182,
+        "name": "TRP_MOV_M11.MSBT",
+        "delta": "patches/msbt-4182.bps"
+      },
+      {
+        "index": 4183,
+        "name": "TRP_MOV_M12.MSBT",
+        "delta": "patches/msbt-4183.bps"
+      },
+      {
+        "index": 4184,
+        "name": "TRP_MOV_M13.MSBT",
+        "delta": "patches/msbt-4184.bps"
+      },
+      {
+        "index": 4185,
+        "name": "TRP_MOV_M14.MSBT",
+        "delta": "patches/msbt-4185.bps"
+      },
+      {
+        "index": 4186,
+        "name": "TRP_MOV_M15.MSBT",
+        "delta": "patches/msbt-4186.bps"
+      },
+      {
+        "index": 4187,
+        "name": "TRP_MOV_M16.MSBT",
+        "delta": "patches/msbt-4187.bps"
+      },
+      {
+        "index": 4188,
+        "name": "TRP_MOV_M17.MSBT",
+        "delta": "patches/msbt-4188.bps"
+      },
+      {
+        "index": 4189,
+        "name": "TUTO.MSBT",
+        "delta": "patches/msbt-4189.bps"
+      },
+      {
+        "index": 4190,
+        "name": "VER_ALPHA2.MSBT",
+        "delta": "patches/msbt-4190.bps"
+      },
+      {
+        "index": 4191,
+        "name": "VER_INTERIM.MSBT",
+        "delta": "patches/msbt-4191.bps"
+      }
+    ]
+  }
+}

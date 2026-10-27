@@ -1,18 +1,14 @@
-Fatal Frame: Maiden of Black Water — PT-BR (Wii U)
+Fatal Frame: Maiden of Black Water / Project Zero — PT-BR v1.1
 
-Este projeto nao inclui arquivos do jogo.
+COMECE PELO ARQUIVO COMO_INSTALAR.md.
 
-Requisitos:
-- Wii U com Aroma
-- SDCafiine
-- FTPiiU Everywhere
-- Copia legal da versao EUR (Title ID 00050000101D3F00)
+1. Extraia o ZIP inteiro no computador.
+2. Abra INICIAR_WINDOWS.cmd ou INICIAR_MAC.command.
+3. Selecione os arquivos da sua própria cópia e uma pasta nova de saída.
+4. Aguarde a conclusão. A pasta wiiu será criada em SAIDA_PTBR.
+5. Siga o guia para copiar o mod ao SD.
+6. Fatal Frame exige também instalar o RPX no Wii U por FTP; veja o guia.
 
-O archive traduzido vai para:
-sd:/wiiu/sdcafiine/00050000101d3f00/PTBR/content/archive00.lnk
-
-Importante: o SDCafiine redireciona somente content/ e aoc/.
-O arquivo code/lens5_cafe.rpx precisa ser enviado separadamente pelo
-FTPiiU Everywhere, com backup e validacao de hash.
-
-Consulte docs/INSTALACAO.md antes de alterar o Wii U.
+Região EUR; Title ID 00050000101D3F00.
+Não copie patches para o SD nem renomeie essa pasta para sdcafiine.
+O assistente não baixa nem inclui arquivos do jogo e não altera seus originais.
