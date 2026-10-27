@@ -1,23 +1,19 @@
-# Fatal Frame: Maiden of Black Water / Project Zero — PT-BR para Wii U
+# Fatal Frame: Maiden of Black Water / Project Zero — tradução PT-BR para Wii U
 
-**Download atual: v1.1 — assistente de instalação para Windows e Mac.**
+**v1.2: gere os arquivos pelo navegador, sem executar scripts baixados.**
 
-- [Baixar o ZIP](https://github.com/hugopsousa-dev/fatal-frame-mobw-ptbr-wiiu/releases/latest/download/FatalFrame-MOBW_PTBR_WiiU_Patch.zip)
+- [ABRIR ASSISTENTE NO NAVEGADOR](https://hugopsousa-dev.github.io/assistente/?jogo=fatal-frame)
 - [Como instalar, passo a passo](COMO_INSTALAR.md)
-- [Ler o guia no navegador](https://hugopsousa-dev.github.io/guias/FatalFrame-MOBW-PTBR.html)
+- [Baixar os deltas e guias](https://github.com/hugopsousa-dev/fatal-frame-mobw-ptbr-wiiu/releases/latest/download/FatalFrame-MOBW_PTBR_WiiU_Patch.zip)
 
-Região **EUR** · Title ID `00050000101D3F00`. O pacote contém deltas e código próprio; você fornece os arquivos da sua cópia do jogo. O assistente gera a pasta `wiiu`; não copie `patches` para o SD. Aroma precisa ter SDCafiine instalado e ativado separadamente.
+Região **EUR** · Title ID `00050000101D3F00`. Requer os arquivos da sua própria cópia do jogo. O site baixa somente dados de patch, processa os originais localmente e salva uma pasta nova com sua permissão. O fluxo usa Chrome/Edge com File System Access API.
 
-**Fatal Frame exige duas etapas:** `archive00.lnk` no SD e RPX compatível no armazenamento do Wii U por FTP. Copiar o RPX para `sdcafiine/code` não funciona. Siga o guia antes de instalar.
+Os atalhos .command/.cmd da v1.1 foram retirados do ZIP v1.2. Não é necessário instalar Python, desativar o Gatekeeper ou remover quarentena.
 
-## Documentação do projeto
+**Fatal Frame exige também instalar o RPX compatível no Wii U por FTP.** O conteúdo vai ao SD; siga o guia para fazer backup e instalar o executável.
 
-A instalação atual está em **COMO_INSTALAR.md**. Código, manifestos e deltas desta revisão estão em `instalador/`.
+## Fontes e validação
 
-A documentação técnica anterior permanece em `docs/`. Caminhos absolutos e instruções de tradução por API nesses materiais são históricos e não são necessários para instalar v1.1.
+O [motor web](https://github.com/hugopsousa-dev/hugopsousa-dev.github.io/tree/main/assistente) usa os mesmos deltas BPS da v1.1, com verificações SHA-256/CRC. Os arquivos em `instalador/` são os dados e guias do pacote público. O aplicador Python para manutenção está em `tools/instalar_avancado.py`; ele é uma opção técnica fora do ZIP principal.
 
-[README técnico anterior](docs/HISTORICO_README.md)
-
-Tradução e engenharia reversa: Hugo (Huguera). [Canal](https://www.youtube.com/channel/UCJcKIDhtlBCZ_6YjnmoWXCQ). Projeto de fã, sem afiliação oficial.
-
-[Testes e limitações desta revisão](VALIDACAO.md).
+[Testes e limitações](VALIDACAO.md). A documentação técnica anterior está em `docs/`. Tradução, engenharia reversa e testes históricos: Hugo (Huguera). Projeto de fã, sem afiliação oficial.
